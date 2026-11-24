@@ -2,6 +2,8 @@
 
 让常用应用停靠在桌面上。支持可调主题、图标倒影、音乐律动和运行窗口切换的 Windows 桌面 Dock。
 
+[查看开源代码](https://github.com/wuyaode/qi-dock) · [MIT 许可证](https://github.com/wuyaode/qi-dock/blob/main/LICENSE.md) · [参与贡献](https://github.com/wuyaode/qi-dock/blob/main/CONTRIBUTING.md)
+
 ![栖 Dock 镜面金属主题实机效果](docs/images/dock-mirror.png)
 
 镜面金属主题实机效果：连续圆角包边、渐隐图标倒影、运行标记，以及向上展开的更多应用入口。
@@ -49,3 +51,9 @@
 ## 反馈问题
 
 [提交问题或建议](https://github.com/wuyaode/qi-dock-downloads/issues)。请附上 Windows 版本、栖 Dock 版本、操作步骤和相关截图。
+
+## 开源许可
+
+栖 Dock 的原创代码、脚本与文档采用 MIT 许可证，允许修改、商用和再分发，须保留版权声明及许可证。源码公开在 [wuyaode/qi-dock](https://github.com/wuyaode/qi-dock)，欢迎通过 Pull Request 提交改进。
+
+展示截图中的第三方应用图标、商标与桌面壁纸属于各自权利人，不由本项目的 MIT 许可证授予相关权利。
